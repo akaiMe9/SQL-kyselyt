@@ -1,5 +1,6 @@
 # SQL-kyselyt
-PHP / SQL -harjoitustyö kevät 2017
+Tietokantaohjelmoinnin harjoitustyö
+Tampereen yliopisto
 
 SQL-kyselyohjelman tarkoitus on testata opiskelijoiden SQL-osaamista. 
 Ohjelmassa suoritetetaan tehtävälistoja, jotka sisältävät erilaisia tehtäviä. 
