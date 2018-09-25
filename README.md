@@ -5,7 +5,7 @@ Tampereen yliopisto
 SQL-kyselyohjelman tarkoitus on testata opiskelijoiden SQL-osaamista. 
 Ohjelmassa suoritetetaan tehtävälistoja, jotka sisältävät erilaisia tehtäviä. 
 
-Ohjelma on tehty PHP-ohjelmointikielellä, käyttäen olio-ohjelmointia. 
+Ohjelma on tehty PHP- / HTML- ja SQL-ohjelmointikielellä käyttäen olio-ohjelmointia. 
 Ohjelman rakenne MVC-arkkitehtuurin mukainen eli malli-, näkymä- ja kontrolleritiedostot ovat erikseen. 
 
 Tiedostot on sijoitettu eri kansioihin seuraavasti:
